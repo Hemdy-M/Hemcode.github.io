@@ -25,3 +25,21 @@ h4 {
 p {
     font-size: 22px;
 }
+
+#CodeWriter {
+    color: rgb(0, 0, 0);
+    background-color: crimson;
+    border: 0px;
+}
+
+.para {
+    text-align: left;
+}
+
+a {
+    font-size: 18px;
+    text-decoration: none;
+    background-color: rgb(39, 35, 35);
+    border-radius: 5px;
+    color: white;
+}
