@@ -2,7 +2,12 @@
     font-family: sans-serif;
 }
 
+body {
+    background-color: rgb(39, 35, 35);
+}
+
 h1, h2, h3 {
+    color: #fff;
     text-transform: uppercase;
 }
 
@@ -19,10 +24,12 @@ h3 {
 }
 
 h4 {
+    color: #fff;
     font-size: 32px;
 }
 
 p {
+    color: #fff;
     font-size: 22px;
 }
 
@@ -30,6 +37,10 @@ p {
     color: rgb(0, 0, 0);
     background-color: crimson;
     border: 0px;
+}
+
+#footer {
+    background-color: hotpink;
 }
 
 .para {
